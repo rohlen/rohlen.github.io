@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robin Rohlén's homepage"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
