@@ -83,7 +83,7 @@ author:
   name             : "Robin Rohlén"
   avatar           : "profile.png"
   bio              : "A postdoc interested in identifying and analysing motor unit activity using ultrasound and electromyography"
-  location         : "Lund"
+  location         :
   employer         : "Lund University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HhOFz_YAAAAJ"
