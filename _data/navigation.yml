@@ -20,6 +20,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Running"
+    url: /running/
     
 #  - title: "Guide"
 #    url: /markdown/
