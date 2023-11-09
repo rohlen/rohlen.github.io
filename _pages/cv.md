@@ -10,11 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* PhD, Biomedical Engineering, Umeå University, 2022/01
+* MSc, Finance, University of Gothenburg, 2018/06
+* MSc, Mathematical Statistics, Umeå University, 2016/11
 
+More information to be added
+
+{*
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams *}
