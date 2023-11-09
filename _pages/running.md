@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have been running track, cross-country and on the road semi-professionally for about 15 years. I just wanted to add this page to keep this part of my life alive, or at least not completely dead. So, hopefully, there will be some updates here over time. But, for now, here are my personal bests at various distances, indoors, outdoors, and on the road.
+I have been running track, cross-country and on the road semi-professionally for about 15 years. I just wanted to add this page to keep this part of my life alive, or at least not completely dead. So, hopefully, there will be some updates here over time. But, for now, for those interested, here are my personal bests at various distances, indoors, outdoors, and on the road.
 
 ## Outdoor track
 ------
